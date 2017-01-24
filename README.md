@@ -1,2 +1,2 @@
 # NLP
-Python codes for course Natural Language Processing
+Python codes for my course - Natural Language Processing
