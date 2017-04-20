@@ -1,2 +1,2 @@
 # NLP
-Python codes for my course - Natural Language Processing
+Homeworks of my course -SI 561 Natural Language Processing
